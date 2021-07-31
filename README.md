@@ -1,27 +1,25 @@
-### Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<!-- introduction -->
+<h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Nirbhay Makhija </h2>
 
-<!--
-**Nirbhay-nrb/Nirbhay-nrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
+ ## About Me:
+- 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/Flutter">BMI app</a>
+- 🌱 I’m currently learning AppDev with Flutter
+- 👯 I’m looking to collaborate in App Developent
+- 🤔 I’m looking for help with Backend Developement
+- 📫 How to reach me: nirbhaymakhija@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
 
 ## Skills:
 
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 ## Stats: 
-<img   width="48%" src="https://github-readme-stats.vercel.app/api?username=Nirbhay-nrb&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&hide_title=false" /> 
-<img   width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay-nrb&layout=compact&theme=omni&hide_border=true&hide_title=true" />
-
-<img width = "51%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-nrb&theme=nightowl"/>
+<img width="495px" src="https://github-readme-stats.vercel.app/api?username=Nirbhay-nrb&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&hide_title=false" />  
+<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay-nrb&layout=compact&theme=jolly&hide_border=true&hide_title=true" />
+<img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-nrb&theme=jolly"/>
