@@ -5,7 +5,7 @@
 
 
  ## About Me:
-- 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/Flutter">BMI app</a>
+- 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/Flutter">Clima app</a>
 - 🌱 I’m currently learning AppDev with Flutter
 - 👯 I’m looking to collaborate in App Developent
 - 🤔 I’m looking for help with Backend Developement
