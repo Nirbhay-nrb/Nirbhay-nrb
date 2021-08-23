@@ -6,9 +6,9 @@
 
  ## About Me:
 - 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/Flutter">Todoey app</a>
-- 🌱 I’m currently learning AppDev with Flutter
+- 🌱 I’m currently learning AppDev with DSA in C++
 - 👯 I’m looking to collaborate in App Developent
-- 🤔 I’m looking for help with Backend Developement
+- 🤔 I’m looking for help with DSA
 - 📫 How to reach me: nirbhaymakhija@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
