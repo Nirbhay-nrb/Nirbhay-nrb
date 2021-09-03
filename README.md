@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help in DSA
 - 📫 How to reach me: nirbhaymakhija@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ✌✌
 
  ![](https://komarev.com/ghpvc/?username=Nirbhay-nrb&color=ff69b4)
 
