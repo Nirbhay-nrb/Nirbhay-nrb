@@ -5,7 +5,7 @@
 
 
  ## About Me:
-- 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/Flutter">The Shop app</a>
+- 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/The-Shop-App">The Shop app</a>
 - 🌱 I’m currently learning DSA in C++
 - 👯 I’m looking to collaborate in App Developent
 - 🤔 I’m looking for help in DSA
