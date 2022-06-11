@@ -1,4 +1,4 @@
-<h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Nirbhay Makhija </h2>
+<h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="25px">, my name is Nirbhay Makhija </h2>
 
 
 
@@ -7,7 +7,7 @@
 
  ## About Me: 
  
-- 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/notefy">The Notefy app</a>
+- 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/The-Shop-App">The Shop app</a>
 - 🌱 I’m currently learning DSA in C++
 - 👯 I’m looking to collaborate in App Developent
 - 🤔 I’m looking for help in DSA
@@ -28,7 +28,6 @@
 
 ## Stats: 
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Nirbhay-nrb&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&hide_title=false" /> 
-<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirbhay-nrb&layout=compact&theme=nightowl&hide_border=false&hide_title=true" />
 <img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-nrb&theme=nightowl"/>
 
 
