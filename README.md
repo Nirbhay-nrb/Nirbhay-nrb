@@ -1,33 +1,32 @@
-<h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="25px">, my name is Nirbhay Makhija </h2>
+<div style="margin-right : 20px">
+<img align="left" height="320" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1665657647~exp=1665658247~hmac=af946fa16fe3ca8e728f45220cd547ae3379380d1797ed734793cebef0908f51" alt="image is loading"/>
+</div>
+<div style="margin-left:20">
 
+```csharp
+Nirbhay-nrb@github : App developer
+----------------------------------
+Name : Nirbhay Makhija
+Age : 20
+Email : nirbhaymakhija@gmail.com
+Pronouns : He/Him
+Location : Delhi,India
+Languages : Dart , Python , C , C++ , HTML , CSS , JavaScript
+SDK : Flutter
+Frontend : BootStrap
+Backend : Flask
+Tools : Git , GitHub , Postman
+Databases : FireBase , MySQL
+Hobbies : Coding , Anime , Music , Gaming
+```
 
-
-
-<img align="right" height="300" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif"/>
-
- ## About Me: 
- 
-- 🔭 I’m currently working on <a href="https://github.com/Nirbhay-nrb/The-Shop-App">The Shop app</a>
-- 🌱 I’m currently learning DSA in C++
-- 👯 I’m looking to collaborate in App Developent
-- 🤔 I’m looking for help in DSA
-- 📫 How to reach me: nirbhaymakhija@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ✌✌
-
-
- ![](https://komarev.com/ghpvc/?username=Nirbhay-nrb&color=ff69b4)
-
+</div>
 <br>
-<br>
-
-## Languages and Tools I use:
-
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-
-## Stats: 
-<img width="495px" src="https://github-readme-stats.vercel.app/api?username=Nirbhay-nrb&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&hide_title=false" /> 
-<img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-nrb&theme=nightowl"/>
-
+<img align="left" " height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-nrb&theme=nightowl"/>
+<div style="width:50%; vertical-align:bottom; align:left;">
+<h3>Follow me on:</h3>
+<a href="https://github.com/Nirbhay-nrb" target="_blank"><img width="125" height="35" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nirbhay-makhija/" target="_blank"><img width="125" height="35" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/nirbhay.nrb/" target="_blank"><img width="125" height="35" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
