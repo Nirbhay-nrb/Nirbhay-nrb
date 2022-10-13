@@ -25,8 +25,8 @@ Hobbies : Coding , Anime , Music , Gaming
 <img align="left" " height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-nrb&theme=nightowl"/>
 <div style="width:50%; vertical-align:bottom; align:left;">
 <h3>Follow me on:</h3>
-<a href="https://github.com/Nirbhay-nrb" target="_blank"><img width="125" height="35" alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nirbhay-makhija/" target="_blank"><img width="125" height="35" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/nirbhay.nrb/" target="_blank"><img width="125" height="35" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/Nirbhay-nrb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nirbhay-makhija/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/nirbhay.nrb/" target="_blank"><img  alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
