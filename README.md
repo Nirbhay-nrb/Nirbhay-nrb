@@ -20,8 +20,8 @@ Databases : FireBase , MySQL
 Hobbies : Coding , Anime , Music , Gaming
 ```
 <br>
-</div>
 <br>
+</div>
 <img align="left" " height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirbhay-nrb&theme=nightowl"/>
 <div style="width:50%; vertical-align:bottom; align:left;">
 <h3>Follow me on:</h3>
