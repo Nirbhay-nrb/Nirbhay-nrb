@@ -1,5 +1,5 @@
 <div style="margin-right : 20px">
-<img align="left" height="320" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1665657647~exp=1665658247~hmac=af946fa16fe3ca8e728f45220cd547ae3379380d1797ed734793cebef0908f51" alt="image is loading"/>
+<img align="left" height="320" width="380" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1665657647~exp=1665658247~hmac=af946fa16fe3ca8e728f45220cd547ae3379380d1797ed734793cebef0908f51" alt="image is loading"/>
 </div>
 <div style="margin-left:20">
 
