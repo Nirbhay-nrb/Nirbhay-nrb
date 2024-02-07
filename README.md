@@ -14,9 +14,9 @@ Location : Delhi,India
 Languages : Dart , Python , C , C++ , HTML , CSS , JavaScript
 SDK : Flutter
 Frontend : BootStrap
-Backend : Flask
+Backend : Flask, Node.js, Express.js
 Tools : Git , GitHub , Postman
-Databases : FireBase , MySQL
+Databases : FireBase , MySQL, MongoDB
 Hobbies : Coding , Anime , Music , Gaming
 ```
 <br>
