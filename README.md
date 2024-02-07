@@ -7,7 +7,7 @@
 Nirbhay-nrb@github : App developer
 ----------------------------------
 Name : Nirbhay Makhija
-Age : 20
+Age : 21
 Email : nirbhaymakhija@gmail.com
 Pronouns : He/Him
 Location : Delhi,India
